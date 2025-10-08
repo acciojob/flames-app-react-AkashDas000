@@ -1,7 +1,6 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --no-color 2>output.txt",
@@ -53,5 +52,14 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acciojob/flames-app-react-AkashDas000.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acciojob/flames-app-react-AkashDas000/issues"
+  },
+  "homepage": "https://github.com/acciojob/flames-app-react-AkashDas000#readme",
+  "description": ""
 }
